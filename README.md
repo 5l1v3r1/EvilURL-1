@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evildevill/EvilURL/master/Images/evilurl.png">  
+  <img src="https://raw.githubusercontent.com/evildevill/EvilURL/master/Images/evilurl.png>
 </p>
 
 <h1 align="center">EvilURL v3.0</h1>
@@ -26,6 +26,23 @@ Github: <a href="https://github.com/evildevill">EvilDevill</a>
 * **Linux Mint - 18.3 Sylvia**
 
 * **Ubuntu - 16.04.3 LTS**
+
+* **Termux
+
+### Installation On Termux
+
+```
+pkg update 
+pkg install python
+pkg install git 
+git clone https://github.com/evildevill/EvilURL.git
+cd EvilURL
+chmod +x *
+python evilurl.py
+```
+### Screen Shot
+
+![Shot](https://github.com/evildevill/EvilURL/blob/master/Images/sc.png)
 
 ### CLONE
 ```
@@ -82,8 +99,8 @@ Taken from [LICENSE](LICENSE).
   { Better interface and design. }
 
 
-### VIDEO DEMO (not updated)
+### Usage 
 <p align="center">
-<a href="https://youtu.be/ug5ZuezbD3c">
-  <img src="https://raw.githubusercontent.com/evildevill/EvilURL/master/Images/video.png" />
+<a href="https://youtube.com/thelinuxchoice
+  <img src="https://raw.githubusercontent.com/evildevill/EvilURL/master/Images/sce.png" />
 </a></p>
