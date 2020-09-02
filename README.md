@@ -1,24 +1,20 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/UndeadSec/EvilURL/master/Images/evilurl.png">  
+  <img src="https://raw.githubusercontent.com/evildevill/EvilURL/master/Images/evilurl.png">  
 </p>
 
-<h1 align="center">EvilURL v2.0</h1>
+<h1 align="center">EvilURL v3.0</h1>
 <p align="center">
   Generate unicode evil domains for IDN Homograph Attack and detect them.
 </p>
 
 ### MAINTAINERS
-* **Alisson Moretto** | 
-Twitter: <a href="https://twitter.com/A1S0N_">@A1S0N_</a>
-Github: <a href="https://github.com/A1S0N">@A1S0N</a>
+* **WaSim Akram** | 
+Twitter: <a href="https://twitter.com/hackerwasii">@hackerwasii</a>
+Github: <a href="https://github.com/hackerwasii">hackerwasii</a>
 
-* **Vandré Augusto** | 
-Twitter: <a href="https://twitter.com/dr1nKoRdi3">@dr1nKoRdi3</a>
-Github: <a href="https://github.com/dr1nk0rdi3">@dr1nK0Rdi3</a>
-
-##### OTHER CONTRIBUTORS
-
-###### - **deantonious** [ Added cli version <a href="https://github.com/UndeadSec/EvilURL/pull/4">#4</a> ] 
+* **Evil Devill** | 
+Twitter: <a href="https://twitter.com/hackerwasii">EvilDEVILL</a>
+Github: <a href="https://github.com/evildevill">EvilDevill</a>
 
 ### PREREQUISITES
 
@@ -33,7 +29,7 @@ Github: <a href="https://github.com/dr1nk0rdi3">@dr1nK0Rdi3</a>
 
 ### CLONE
 ```
-git clone https://github.com/UndeadSec/EvilURL.git
+git clone https://github.com/evildevill/EvilURL.git
 ```
 
 ### RUNNING
@@ -68,7 +64,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 Taken from [LICENSE](LICENSE).
 
 ### SCREENSHOT
-![Shot](https://github.com/UndeadSec/EvilURL/blob/master/Images/sc.png)
+![Shot](https://github.com/evildevill/EvilURL/blob/master/Images/sc.png)
 
 ### CHANGELOG
 * **Full script updated to Python 3.x**
@@ -85,15 +81,9 @@ Taken from [LICENSE](LICENSE).
   
   { Better interface and design. }
 
-## Donation
-If you liked our work and want to support us, you can donate :D
-
-<img src="https://raw.githubusercontent.com/UndeadSec/EvilURL/master/Images/donation.png"></img>
-
-Bitcoin Address: 1EmJ5KiAKzpyqGGHopAq9qukrVPS47T9bA
 
 ### VIDEO DEMO (not updated)
 <p align="center">
 <a href="https://youtu.be/ug5ZuezbD3c">
-  <img src="https://raw.githubusercontent.com/UndeadSec/EvilURL/master/Images/video.png" />
+  <img src="https://raw.githubusercontent.com/evildevill/EvilURL/master/Images/video.png" />
 </a></p>
