@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evildevill/EvilURL/master/Images/evilurl.png>
+  <img src="https://github.com/evildevill/EvilURL/blob/master/Images/evilurl.png"/>
 </p>
 
 <h1 align="center">EvilURL v3.0</h1>
